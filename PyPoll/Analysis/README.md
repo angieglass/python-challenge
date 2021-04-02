@@ -1,3 +1,0 @@
-# python-challenge
-
-Testing GitPush 
